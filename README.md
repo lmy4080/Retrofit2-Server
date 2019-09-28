@@ -1,4 +1,4 @@
-# Retrofit2 Test Server Demo
+# Nodejs Server For Mobile App Using Retrofit, OkHttp Libs
 
 미니 로또 추첨기
 
