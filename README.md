@@ -12,6 +12,7 @@
 - Nodejs(Server), 10.16.3 64bit
 - Android App(Client), Lollipop v21
 - Retrofit2 API(Client), 2.6.1
+- OkHttp API(Client), 4.2.0
 
 ### 요청 URL(Request URLs)
 
